@@ -1,3 +1,3 @@
-# hellowelcoem
-A C-language code that will spam your terminal with hello welcoem in a weird way.
-### yo C looks cool
+# hello, welcoem.
+
+originally started as a code written in C for fun. i might added more languages
